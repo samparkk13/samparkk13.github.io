@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /files/Samuel_Park_Resume.pdf
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume/
