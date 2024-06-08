@@ -12,7 +12,7 @@ title                    : "Samuel Park"
 title_separator          : "-"
 name                     : &name "Samuel Park"
 description              : &description "CS @ Cornell University"
-url                      : https://samparkk13.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://samparkk13.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/samparkk13/samparkk13.github.io"
 
