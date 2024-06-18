@@ -1,6 +1,6 @@
 ---
 title: "CV"
-permalink: /files/Samuel_Park_Resume.pdf
+permalink: /files/Resume.pdf
 author_profile: false
 redirect_from:
   - /cv/
