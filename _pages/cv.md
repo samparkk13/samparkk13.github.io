@@ -3,7 +3,7 @@ title: "CV"
 permalink: /files/Samuel_Park_Resume.pdf
 author_profile: false
 redirect_from:
-  - /resume
+  - /cv/
 ---
 
 
