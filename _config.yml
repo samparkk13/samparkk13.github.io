@@ -10,25 +10,25 @@
 locale                   : "en-US"
 title                    : "Samuel Park"
 title_separator          : "-"
-name                     : &name "Samuel Park"
-description              : &description "CS @ Cornell University"
+name                     :
+description              : 
 url                      : https://samparkk13.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/samparkk13/samparkk13.github.io"
+baseurl                  :  # the subpath of your site, e.g. "/blog"
+repository               : "samparkk13/samparkk13.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profPicLarge.jpg"
-  name             : "Samuel Park"
+  avatar           : 
+  name             : 
   pronouns         : # example: "she/her"  
-  bio              : "CS @ Cornell University"
-  location         : "Ithaca, NY"
+  bio              : 
+  location         : 
   employer         : 
   uri              : # URL
-  email            : "sp994@cornell.edu" 
+  email            : 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "samparkk13"
+  github           : 
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : samparkk13
+  linkedin         : 
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
