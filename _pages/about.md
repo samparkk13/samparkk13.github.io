@@ -155,6 +155,7 @@ redirect_from:
     padding: 2px 8px;
     font-size: 0.60em;
     font-family: 'Fira Mono', monospace;
+    word-break: break-word;
   }
   .location-text {
     color:rgb(236, 112, 63);
@@ -212,5 +213,21 @@ redirect_from:
   }
   .author__avatar {
     display: none;
+  }
+  .section-info span[style*="display: flex"],
+  .project-info span[style*="display: flex"] {
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 0.3em;
+    max-width: 100%;
+  }
+  @media (max-width: 600px) {
+    .section-info span[style*="display: flex"],
+    .project-info span[style*="display: flex"] {
+      flex-wrap: wrap;
+      gap: 0.3em;
+      max-width: 100%;
+    }
   }
 </style>
