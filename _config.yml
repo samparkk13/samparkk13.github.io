@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     :
 description              : 
 url                      : https://samparkk13.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  :  # the subpath of your site, e.g. "/blog"
+baseurl                  :  # the subpath of your site, e.g. "/blog" 
 repository               : "samparkk13/samparkk13.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
