@@ -38,7 +38,7 @@ redirect_from:
 
 <div class="section-list">
   <div class="section-row">
-    <div class="section-year">2025 — present</div>
+    <div class="section-year">2025 — 2025</div>
     <div class="section-info">
       <strong>Walmart Global Tech</strong><br>
       <span class="location-text">Sunnyvale, CA</span><br>
