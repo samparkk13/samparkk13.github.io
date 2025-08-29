@@ -68,6 +68,14 @@ redirect_from:
   <div class="project-row">
     <div class="project-year">2025</div>
     <div class="project-info">
+      <strong>FantasyEdge AI</strong> <a href="https://github.com/samparkk13/fantasyedge-ai" class="link-small">(code)</a><br>
+      <span class="comment-text">// AI-powered fantasy football analytics platform </span><br>
+      <span style="display: flex; gap: 0.3em; margin-top: 0.5em;"> <span class="skill-badge">Python</span> <span class="skill-badge">SQL</span> <span class="skill-badge">TypeScript</span><span class="skill-badge">Next.js</span><span class="skill-badge">Docker</span> </span>
+    </div>
+  </div>
+  <div class="project-row">
+    <div class="project-year">2025</div>
+    <div class="project-info">
       <strong>BeanSearch</strong> <a href="https://github.com/samparkk13/BeanSearch" class="link-small">(code)</a><br>
       <span class="comment-text">// high-performance search engine for specialty coffee beans</span><br>
       <span style="display: flex; gap: 0.3em; margin-top: 0.5em;"> <span class="skill-badge">Python</span> <span class="skill-badge">TF-IDF</span> <span class="skill-badge">SVD</span><span class="skill-badge">NLP</span> </span>
