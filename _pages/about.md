@@ -97,7 +97,7 @@ redirect_from:
       <span style="display: flex; gap: 0.3em; margin-top: 0.5em;"> <span class="skill-badge">OCaml</span> <span class="skill-badge">VSCode</span> <span class="skill-badge">Git</span> </span>
     </div>
   </div>
-  <div class="project-row">
+  <!-- <div class="project-row">
     <div class="project-year">2024</div>
     <div class="project-info">
       <strong>Personal Blog Page</strong> <a href="https://github.com/samparkk13/parksamuel.com" class="link-small">(code)</a>
@@ -105,15 +105,15 @@ redirect_from:
       <span class="comment-text">// react powered website with personal blogs</span><br>
       <span style="display: flex; gap: 0.3em; margin-top: 0.5em;"> <span class="skill-badge">React.js</span> <span class="skill-badge">JavaScript</span><span class="skill-badge">TypeScript</span> <span class="skill-badge">CSS</span> </span>
     </div>
-  </div>
-  <!-- <div class="project-row">
+  </div> -->
+  <div class="project-row">
     <div class="project-year">2024</div>
     <div class="project-info">
       <strong>Full Stack To-Do Task Application</strong> <a href="https://github.com/samparkk13/todo-task-application" class="link-small">(code)</a><br>
       <span class="comment-text">// full-stack task management app</span><br>
       <span style="display: flex; gap: 0.3em; margin-top: 0.5em;"> <span class="skill-badge">Python</span> <span class="skill-badge">Flask</span> <span class="skill-badge">Swift</span> <span class="skill-badge">Docker</span> </span>
     </div>
-  </div> -->
+  </div>
 </div>
 
 ---
