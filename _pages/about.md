@@ -22,7 +22,7 @@ redirect_from:
 
 <div class="section-list">
   <div class="section-row">
-    <div class="section-year">2022 — 2026</div>
+    <div class="section-year"></div>
     <div class="section-info">
       <strong>Cornell University</strong><br>
       <span class="location-text">Ithaca, NY</span><br>
